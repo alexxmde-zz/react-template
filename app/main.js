@@ -1,1 +1,1 @@
-console.log("Hello");
+import App from './jsx/App.jsx';
